@@ -1,2 +1,2 @@
 --
-- src: https://github.com/mattfoxxx/ansible-timezone
+- src: https://github.com/mattfoxxx/ansible-timezone.git
