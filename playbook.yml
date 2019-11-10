@@ -1,0 +1,7 @@
+---
+- hosts: all
+  roles:
+  - mattfoxxx.ansible-playbook.git
+
+  vars:
+   timezone: Europe/Berlin
