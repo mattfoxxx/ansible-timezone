@@ -1,2 +1,2 @@
---
-- src: https://github.com/mattfoxxx/ansible-timezone.git
+- src: git+https://github.com/mattfoxxx/ansible-timezone.git
+  version: master
